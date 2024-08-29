@@ -1,0 +1,94 @@
+*{
+    margin: 0 auto;
+    font-family: "Montserrat", sans-serif;
+}
+body{
+    background-color: rgb(190, 189, 189);
+}
+header{
+    background-color: rgb(58, 58, 58);
+    padding: 20px;
+    
+}
+header a{
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+}
+#inicio h1{
+    text-align: center;
+  margin-bottom: 15px;
+  font-size: 2rem;
+  margin-top: 20px;
+}
+#inicio img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    display: flex;
+    border-style: dashed;
+}
+#inicio p{
+    font-size: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 20px;
+}
+#inicio h2{
+    font-size: 40px;
+    display: flex;
+    margin-left: 20px;
+}
+#portfolio h3{
+    font-size: 2rem;
+   margin-left: 20px;
+   padding: 15px;
+}
+#portfolio p{
+    font-size: 30px;
+    margin-left: 20px;
+    padding: 15px 15px;
+
+}
+#conhecimentos h3{
+    font-size: 30px;
+    margin-left: 20px;
+}
+#conhecimentos p{
+    font-size: 30px;
+    margin-left: 20px;
+}
+#contato h3{
+    padding: 15px 15px;
+    font-size: 30px;
+    text-align: center;
+}
+.formulario div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+footer{
+    background-color: rgb(53, 52, 52);
+    color: white;
+    padding: 25px;
+}
+footer nav a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+footer strong{
+    padding: 10px;
+}
+#copy{
+    background-color: gray;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+#copy a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+    
